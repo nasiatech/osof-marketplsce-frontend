@@ -34,3 +34,9 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+##Link to figma file and prototype
+
+###Figma file: https://www.figma.com/file/wDpdDGdozGI57x9wK8CmX7/One-Seed-One-farm?node-id=1%3A2
+
+###Figma prototype: https://www.figma.com/proto/wDpdDGdozGI57x9wK8CmX7/One-Seed-One-farm?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
